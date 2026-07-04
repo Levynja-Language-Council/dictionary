@@ -4,8 +4,538 @@
       "id": 1,
       "lemma": "Valea",
       "pos": "noun",
-      "meaning": ["air"],
+      "meaning": [
+        "air"
+      ],
       "root": "val",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "lemma": "Valno",
+      "meaning": [
+        "Space"
+      ],
+      "pos": "noun",
+      "root": "val",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "lemma": "Tèra",
+      "meaning": [
+        "Earth"
+      ],
+      "pos": "noun",
+      "root": "ter",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "lemma": "Terono",
+      "meaning": [
+        "Ground"
+      ],
+      "pos": "noun",
+      "root": "ter",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "lemma": "Tèròso",
+      "meaning": [
+        "Soil, land"
+      ],
+      "pos": "noun",
+      "root": "ter",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "lemma": "Asana",
+      "meaning": [
+        "Sun"
+      ],
+      "pos": "noun",
+      "root": "asa",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "lemma": "Asaava",
+      "meaning": [
+        "Day"
+      ],
+      "pos": "noun",
+      "root": "asa",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "lemma": "Ava",
+      "meaning": [
+        "Water"
+      ],
+      "pos": "noun",
+      "root": "ava",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "lemma": "Avaaga",
+      "meaning": [
+        "Sea"
+      ],
+      "pos": "noun",
+      "root": "ava",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "lemma": "Davaga",
+      "meaning": [
+        "Lake"
+      ],
+      "pos": "noun",
+      "root": "ava",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "lemma": "Gavaga",
+      "meaning": [
+        "Ocean"
+      ],
+      "pos": "noun",
+      "root": "ava",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "lemma": "Kero",
+      "meaning": [
+        "Tree"
+      ],
+      "pos": "noun",
+      "root": "ker",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 13,
+      "lemma": "Kèrono",
+      "meaning": [
+        "Wood"
+      ],
+      "pos": "noun",
+      "root": "ker",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "lemma": "Fiora",
+      "meaning": [
+        "Flower"
+      ],
+      "pos": "noun",
+      "root": "fio",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 15,
+      "lemma": "Fioseje",
+      "meaning": [
+        "Botanics"
+      ],
+      "pos": "noun",
+      "root": "fio",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "lemma": "Anvrome",
+      "meaning": [
+        "Human, person"
+      ],
+      "pos": "noun",
+      "root": "anvro",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "lemma": "komu",
+      "meaning": [
+        "to consume"
+      ],
+      "pos": "verb",
+      "root": "kom",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "lemma": "Noro",
+      "meaning": [
+        "Existence, reality, being"
+      ],
+      "pos": "noun",
+      "root": "noro",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 19,
+      "lemma": "Baso",
+      "meaning": [
+        "Plant"
+      ],
+      "pos": "noun",
+      "root": "bas",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 20,
+      "lemma": "Basego",
+      "meaning": [
+        "Grass"
+      ],
+      "pos": "noun",
+      "root": "bas",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "lemma": "Miona",
+      "meaning": [
+        "Moon"
+      ],
+      "pos": "noun",
+      "root": "mion",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 22,
+      "lemma": "Kune",
+      "meaning": [
+        "Planet"
+      ],
+      "pos": "noun",
+      "root": "kun",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 23,
+      "lemma": "Stavyna",
+      "meaning": [
+        "Star"
+      ],
+      "pos": "noun",
+      "root": "sta",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 24,
+      "lemma": "Lyna",
+      "meaning": [
+        "Fantasy"
+      ],
+      "pos": "noun",
+      "root": "lyn",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 25,
+      "lemma": "Lyne",
+      "meaning": [
+        "Mind, psyche"
+      ],
+      "pos": "noun",
+      "root": "lyn",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 26,
+      "lemma": "Lynys",
+      "meaning": [
+        "Purple"
+      ],
+      "pos": "noun",
+      "root": "lyn",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 27,
+      "lemma": "Lynaara",
+      "meaning": [
+        "Dignity"
+      ],
+      "pos": "noun",
+      "root": "lyn",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "lemma": "Lynis",
+      "meaning": [
+        "Creativity"
+      ],
+      "pos": "noun",
+      "root": "lyn",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 29,
+      "lemma": "Vèx",
+      "meaning": [
+        "Magic"
+      ],
+      "pos": "noun",
+      "root": "vèx",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 30,
+      "lemma": "Vèxera",
+      "meaning": [
+        "Supernatural"
+      ],
+      "pos": "noun",
+      "root": "vèx",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 31,
+      "lemma": "Gaba",
+      "meaning": [
+        "Big"
+      ],
+      "pos": "noun",
+      "root": "ga",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 32,
+      "lemma": "Doro",
+      "meaning": [
+        "Small"
+      ],
+      "pos": "noun",
+      "root": "do",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 33,
+      "lemma": "Movo",
+      "meaning": [
+        "Movement"
+      ],
+      "pos": "noun",
+      "root": "mov",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 34,
+      "lemma": "movu",
+      "meaning": [
+        "To walk"
+      ],
+      "pos": "verb",
+      "root": "mov",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 35,
+      "lemma": "Sai",
+      "meaning": [
+        "Vision, sight"
+      ],
+      "pos": "noun",
+      "root": "sai",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 36,
+      "lemma": "Dumaaja",
+      "meaning": [
+        "Feeling"
+      ],
+      "pos": "noun",
+      "root": "dum",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 37,
+      "lemma": "Dumsa",
+      "meaning": [
+        "Taste"
+      ],
+      "pos": "noun",
+      "root": "dum",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 38,
+      "lemma": "Buko",
+      "meaning": [
+        "House"
+      ],
+      "pos": "noun",
+      "root": "buk",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 39,
+      "lemma": "Bukoty",
+      "meaning": [
+        "Building"
+      ],
+      "pos": "noun",
+      "root": "buk",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 40,
+      "lemma": "Aaly",
+      "meaning": [
+        "Life"
+      ],
+      "pos": "noun",
+      "root": "aly",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 41,
+      "lemma": "alynu",
+      "meaning": [
+        "To live"
+      ],
+      "pos": "verb",
+      "root": "aly",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 42,
+      "lemma": "Alymaana",
+      "meaning": [
+        "Beginning"
+      ],
+      "pos": "noun",
+      "root": "aly",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 43,
+      "lemma": "Maaly",
+      "meaning": [
+        "Death"
+      ],
+      "pos": "noun",
+      "root": "maly",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 44,
+      "lemma": "Maalyna",
+      "meaning": [
+        "End"
+      ],
+      "pos": "noun",
+      "root": "maly",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 45,
+      "lemma": "Koubo",
+      "meaning": [
+        "Food"
+      ],
+      "pos": "noun",
+      "root": "kou",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 46,
+      "lemma": "Vilea",
+      "meaning": [
+        "Health"
+      ],
+      "pos": "noun",
+      "root": "vil",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 47,
+      "lemma": "Valmo",
+      "meaning": [
+        "Wind"
+      ],
+      "pos": "noun",
+      "root": "val",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 48,
+      "lemma": "Vyra",
+      "meaning": [
+        "Woman, female"
+      ],
+      "pos": "noun",
+      "root": "vyra",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 49,
+      "lemma": "Miko",
+      "meaning": [
+        "Man, male"
+      ],
+      "pos": "noun",
+      "root": "miko",
       "etymology": "",
       "notes": ""
     }
