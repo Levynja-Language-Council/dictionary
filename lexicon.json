@@ -538,6 +538,248 @@
       "root": "miko",
       "etymology": "",
       "notes": ""
+    },
+    {
+      "id": 50,
+      "lemma": "Aago",
+      "meaning": [
+        "One (1)"
+      ],
+      "pos": "numeral",
+      "root": "ago",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 51,
+      "lemma": "Duo",
+      "meaning": [
+        "Two (2)"
+      ],
+      "pos": "numeral",
+      "root": "du",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 52,
+      "lemma": "San",
+      "meaning": [
+        "Three (3)"
+      ],
+      "pos": "numeral",
+      "root": "san",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 53,
+      "lemma": "Koa",
+      "meaning": [
+        "Four (4)"
+      ],
+      "pos": "numeral",
+      "root": "koa",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 54,
+      "lemma": "Fijhui",
+      "meaning": [
+        "Five (5)"
+      ],
+      "pos": "numeral",
+      "root": "fijhu",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 55,
+      "lemma": "Bèl",
+      "meaning": [
+        "Six (6)"
+      ],
+      "pos": "numeral",
+      "root": "bèl",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 56,
+      "lemma": "Suiva",
+      "meaning": [
+        "Seven (7)"
+      ],
+      "pos": "numeral",
+      "root": "suiv",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 57,
+      "lemma": "Òcheo",
+      "meaning": [
+        "Eight (8)"
+      ],
+      "pos": "numeral",
+      "root": "òch",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 58,
+      "lemma": "Nòna",
+      "meaning": [
+        "Nine (9)"
+      ],
+      "pos": "numeral",
+      "root": "nòn",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 59,
+      "lemma": "Nol",
+      "meaning": [
+        "Zero (0)"
+      ],
+      "pos": "numeral",
+      "root": "nol",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 60,
+      "lemma": "Anje",
+      "meaning": [
+        "Ten (10)"
+      ],
+      "pos": "numeral",
+      "root": "anj",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 61,
+      "lemma": "Agoje",
+      "meaning": [
+        "Eleven (11)"
+      ],
+      "pos": "numeral",
+      "root": "ago",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 62,
+      "lemma": "Duonje",
+      "meaning": [
+        "Twelve (12)"
+      ],
+      "pos": "numeral",
+      "root": "duo",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 63,
+      "lemma": "Sanje",
+      "meaning": [
+        "Thirteen (13)"
+      ],
+      "pos": "numeral",
+      "root": "san",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 64,
+      "lemma": "Koaje",
+      "meaning": [
+        "Fourteen (14)"
+      ],
+      "pos": "numeral",
+      "root": "koa",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 65,
+      "lemma": "Fijhuje",
+      "meaning": [
+        "Fifteen (15)"
+      ],
+      "pos": "numeral",
+      "root": "fijhu",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 66,
+      "lemma": "Bèlje",
+      "meaning": [
+        "Sixteen (16)"
+      ],
+      "pos": "numeral",
+      "root": "bèl",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 67,
+      "lemma": "Suije",
+      "meaning": [
+        "Seventeen (17)"
+      ],
+      "pos": "numeral",
+      "root": "suiv",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 68,
+      "lemma": "Òchoje",
+      "meaning": [
+        "Eighteen (18)"
+      ],
+      "pos": "numeral",
+      "root": "òch",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 69,
+      "lemma": "Nònje",
+      "meaning": [
+        "Nineteen (19)"
+      ],
+      "pos": "numeral",
+      "root": "nòn",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 70,
+      "lemma": "Duona",
+      "meaning": [
+        "Twenty (20)"
+      ],
+      "pos": "numeral",
+      "root": "duo",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 71,
+      "lemma": "Gakyna",
+      "meaning": [
+        "Academy"
+      ],
+      "pos": "noun",
+      "root": "gakyn",
+      "etymology": "",
+      "notes": ""
     }
   ]
 }
