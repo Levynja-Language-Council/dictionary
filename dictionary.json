@@ -791,6 +791,39 @@
       "root": "N/A",
       "etymology": "",
       "notes": "Links two nouns; may mark origin, posession, and association."
+    },
+    {
+      "id": 73,
+      "lemma": "vilu",
+      "meaning": [
+        "To heal, make healthy"
+      ],
+      "pos": "verb",
+      "root": "vil",
+      "etymology": "",
+      "notes": ""
+    },
+    {
+      "id": 74,
+      "lemma": "Vilute",
+      "meaning": [
+        "Healer, doctor (medical context)"
+      ],
+      "pos": "noun",
+      "root": "vil",
+      "etymology": "Vilu \"to heal\" plus agent suffix",
+      "notes": ""
+    },
+    {
+      "id": 75,
+      "lemma": "Fiorate",
+      "meaning": [
+        "Florist"
+      ],
+      "pos": "noun",
+      "root": "fio",
+      "etymology": "Fiora \"Flower\" plus agent suffix",
+      "notes": ""
     }
   ]
 }
